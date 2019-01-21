@@ -1,0 +1,9 @@
+C:\Users\wcorrea\Desktop\practicas de Git\Pactica1\Pactica1\bin\Debug\netcoreapp1.1\Pactica1.deps.json
+C:\Users\wcorrea\Desktop\practicas de Git\Pactica1\Pactica1\bin\Debug\netcoreapp1.1\Pactica1.runtimeconfig.json
+C:\Users\wcorrea\Desktop\practicas de Git\Pactica1\Pactica1\bin\Debug\netcoreapp1.1\Pactica1.runtimeconfig.dev.json
+C:\Users\wcorrea\Desktop\practicas de Git\Pactica1\Pactica1\bin\Debug\netcoreapp1.1\Pactica1.dll
+C:\Users\wcorrea\Desktop\practicas de Git\Pactica1\Pactica1\bin\Debug\netcoreapp1.1\Pactica1.pdb
+C:\Users\wcorrea\Desktop\practicas de Git\Pactica1\Pactica1\obj\Debug\netcoreapp1.1\Pactica1.csprojResolveAssemblyReference.cache
+C:\Users\wcorrea\Desktop\practicas de Git\Pactica1\Pactica1\obj\Debug\netcoreapp1.1\Pactica1.AssemblyInfo.cs
+C:\Users\wcorrea\Desktop\practicas de Git\Pactica1\Pactica1\obj\Debug\netcoreapp1.1\Pactica1.dll
+C:\Users\wcorrea\Desktop\practicas de Git\Pactica1\Pactica1\obj\Debug\netcoreapp1.1\Pactica1.pdb
