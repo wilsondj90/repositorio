@@ -8,7 +8,7 @@ namespace Pactica1
         {
             Console.WriteLine("Hello World!");
 
-            Console.WriteLine("chao mundo!");
+            Console.WriteLine("chao ");
 
             Console.ReadLine();
         }
